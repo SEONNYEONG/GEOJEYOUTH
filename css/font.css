@@ -1,0 +1,33 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@font-face{
+    font-family: 'GmarketSansMedium';
+    src: url(../fonts/GmarketSansTTFMedium.ttf) format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'GmarketSansLight';
+    src: url(../fonts/GmarketSansTTFLight.ttf) format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'GmarketSansBold';
+    src: url(../fonts/GmarketSansTTFBold.ttf) format('truetype');
+    font-weight: 700;
+    font-style: normal;
+} */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+@font-face {
+    font-family: 'GmarketSansLight'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansLight.woff') format('woff'); font-weight: normal; 
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GmarketSansMedium'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff'); font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GmarketSansBold'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansBold.woff') format('woff'); 
+    font-weight: normal;
+    font-style: normal;
+}
